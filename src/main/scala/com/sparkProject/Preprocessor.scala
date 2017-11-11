@@ -48,7 +48,7 @@ object Preprocessor {
       .option("header", true)  // Use first line of all files as header
       .option("inferSchema", "true") // Try to infer the data types of each column
       .option("nullValue", "false")  // replace strings "false" (that indicates missing data) by null values
-      .csv("/Users/maxime/Desktop/funding-successful-projects-on-kickstarter/train.csv")
+      .csv("./train.csv")
 
     // b) nombre de lignes et colonnes
     println(s"Total number of rows: ${df.count}")
@@ -208,7 +208,7 @@ object Preprocessor {
 
     /** WRITING DATAFRAME **/
 
-    dfFiltered.write.mode(SaveMode.Overwrite).parquet("/Users/maxime/Desktop/funding-successful-projects-on-kickstarter/prepared_trainingset")
+    dfFiltered.write.mode(SaveMode.Overwrite).parquet("./prepared_trainingset")
 
   }
 
