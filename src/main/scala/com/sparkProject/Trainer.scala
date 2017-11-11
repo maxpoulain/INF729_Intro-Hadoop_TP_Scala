@@ -46,7 +46,7 @@ object Trainer {
       ********************************************************************************/
 
    /** CHARGER LE DATASET **/
-   val df: DataFrame = spark.read.parquet("/Users/maxime/Desktop/funding-successful-projects-on-kickstarter/prepared_trainingset")
+   val df: DataFrame = spark.read.parquet("./prepared_trainingset")
 
     /** TF-IDF **/
 
