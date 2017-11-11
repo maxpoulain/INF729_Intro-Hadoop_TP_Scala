@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0mIncluding from cache: joda-time-2.9.9.jar[0m
+[0m[[0mdebug[0m] [0mCalculate mappings...[0m
+[0m[[0minfo[0m] [0mChecking every *.class/*.jar file's SHA-1.[0m
+[0m[[0minfo[0m] [0mMerging files...[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/joda-time/joda-time/pom.properties' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mMerging 'META-INF/maven/joda-time/joda-time/pom.xml' with strategy 'discard'[0m
+[0m[[33mwarn[0m] [0mStrategy 'discard' was applied to 3 files[0m
+[0m[[0minfo[0m] [0mAssembly up to date: /Users/maxime/Desktop/INF729_Intro-Hadoop_TP_Scala/target/scala-2.11/TP_ParisTech_2017_2018-assembly-1.0.jar[0m

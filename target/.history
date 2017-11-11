@@ -1,0 +1,4 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/nr/n6564dqs4v1clf7bbxrd8qqc0000gn/T/sbt-structure.xml
+all {file:/Users/maxime/Desktop/TP_ParisTech_2017_2018_starter/}tp_paristech_2017_2018_starter/products {file:/Users/maxime/Desktop/TP_ParisTech_2017_2018_starter/}tp_paristech_2017_2018_starter/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/nr/n6564dqs4v1clf7bbxrd8qqc0000gn/T/sbt-structure.xml
+all {file:/Users/maxime/Desktop/TP_ParisTech_2017_2018_starter/}tp_paristech_2017_2018_starter/products {file:/Users/maxime/Desktop/TP_ParisTech_2017_2018_starter/}tp_paristech_2017_2018_starter/test:products
